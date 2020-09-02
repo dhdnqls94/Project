@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/ohwoobin/Desktop/Web/포트폴리오/text_bo0ts/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+729568599.index
+1053635621.index
+2915232640.index
+2188032475.index
+1413329336.index

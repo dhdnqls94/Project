@@ -1,0 +1,10 @@
+<Context docBase="text_bo0ts" path="/text_bo0ts"
+	reloadable="true" source="org.eclipse.jst.jee.server:text_bo0ts">
+
+	<Resource name="jdbc/pool" auth="Container"
+		type="javax.sql.DataSource"
+
+		driverClassName="oracle.jdbc.driver.OracleDriver" username="users"
+
+		password="111111" url="jdbc:oracle:thin:@localhost:1521:xe" />
+</Context>
